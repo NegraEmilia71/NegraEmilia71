@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🚀 Sobre mim
+Sou Cientista de Dados com foco em Python, SQL e pipelines escaláveis.
+Desenvolvo e orquestro pipelines utilizando:
+- Python
+- SQL
+- AWS
+- GCP
+- Databricks
+- Spark
 
-<!--
-**NegraEmilia71/NegraEmilia71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
+</p>
 
-Here are some ideas to get you started:
+## 🌎 Onde me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joyce-emilia-datascientist/)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](sites.google.com/view/joyceemliadatascientist/pagina-inicial)
