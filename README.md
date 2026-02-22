@@ -21,4 +21,4 @@ Desenvolvo e orquestro pipelines utilizando:
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joyce-emilia-datascientist/)
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](sites.google.com/view/joyceemliadatascientist/pagina-inicial)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/joyceemliadatascientist/p%C3%A1gina-inicial)
