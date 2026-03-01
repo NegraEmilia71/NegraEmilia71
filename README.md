@@ -1,12 +1,9 @@
 ## 🚀 Sobre mim
 Sou Cientista de Dados com foco em Python, SQL e pipelines escaláveis.
 Desenvolvo e orquestro pipelines utilizando:
-- Python
-- SQL
-- AWS
-- GCP
-- Databricks
-- Spark
+- Python                  - GCP
+- Databricks              - Spark
+- SQL                     - AWS
 
 ## 🛠️ Tecnologias
 <p align="left">
